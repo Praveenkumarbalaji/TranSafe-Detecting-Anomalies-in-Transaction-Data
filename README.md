@@ -90,7 +90,6 @@ Test additional anomaly detection techniques.
 
 Deploy the model as a web application for real-time anomaly detection.
 
-Author
 Praveen Kumar B
 
 
